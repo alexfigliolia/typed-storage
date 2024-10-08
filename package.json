@@ -1,6 +1,6 @@
 {
   "name": "@figliolia/typed-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A type safe wrapper for browser storage API's",
   "main": "dist/cjs/index.js",
   "scripts": {
@@ -19,6 +19,11 @@
   ],
   "author": "Alex Figliolia",
   "license": "MIT",
+  "homepage": "https://github.com/alexfigliolia/typed-storage#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfigliolia/typed-storage.git"
+  },
   "devDependencies": {
     "@figliolia/child-process": "^1.0.4",
     "@figliolia/ts-packager": "^1.2.1",
